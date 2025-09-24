@@ -39,7 +39,7 @@ namespace Uppgift_Mini_äventyr_textbaseratkonsolspel
 
                 switch (choice)
                 {
-
+                    
                     case 1:
                         Game.Adventure(myPlayer);
                         break;

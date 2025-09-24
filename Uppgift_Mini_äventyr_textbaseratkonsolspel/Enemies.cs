@@ -7,7 +7,7 @@ namespace Uppgift_Mini_äventyr_textbaseratkonsolspel
     public class Enemy
     {
 
-
+        
         public string EnemyType;
         public int Hp;
         public int MaxHp;
